@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-next": "^1.0.5",
+    "express": "^4.19.2"
+  },
+  "name": "tareaboots",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": 
+  {
+    "test": "purgecss --css C:/Users/AsusR/OneDrive/Escritorio/TareaBoots/sass/custom.css --content C:/Users/AsusR/OneDrive/Escritorio/TareaBoots/Actividad2.html --output C:/Users/AsusR/OneDrive/Escritorio/TareaBoots/sass/reducido.css"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "purgecss": "^6.0.0"
+  }
+}
